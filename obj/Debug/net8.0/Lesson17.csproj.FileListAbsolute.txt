@@ -1,0 +1,14 @@
+/home/mrcat/Programming/Projects/Lesson17/bin/Debug/net8.0/Lesson17
+/home/mrcat/Programming/Projects/Lesson17/bin/Debug/net8.0/Lesson17.deps.json
+/home/mrcat/Programming/Projects/Lesson17/bin/Debug/net8.0/Lesson17.runtimeconfig.json
+/home/mrcat/Programming/Projects/Lesson17/bin/Debug/net8.0/Lesson17.dll
+/home/mrcat/Programming/Projects/Lesson17/bin/Debug/net8.0/Lesson17.pdb
+/home/mrcat/Programming/Projects/Lesson17/obj/Debug/net8.0/Lesson17.GeneratedMSBuildEditorConfig.editorconfig
+/home/mrcat/Programming/Projects/Lesson17/obj/Debug/net8.0/Lesson17.AssemblyInfoInputs.cache
+/home/mrcat/Programming/Projects/Lesson17/obj/Debug/net8.0/Lesson17.AssemblyInfo.cs
+/home/mrcat/Programming/Projects/Lesson17/obj/Debug/net8.0/Lesson17.csproj.CoreCompileInputs.cache
+/home/mrcat/Programming/Projects/Lesson17/obj/Debug/net8.0/Lesson17.dll
+/home/mrcat/Programming/Projects/Lesson17/obj/Debug/net8.0/refint/Lesson17.dll
+/home/mrcat/Programming/Projects/Lesson17/obj/Debug/net8.0/Lesson17.pdb
+/home/mrcat/Programming/Projects/Lesson17/obj/Debug/net8.0/Lesson17.genruntimeconfig.cache
+/home/mrcat/Programming/Projects/Lesson17/obj/Debug/net8.0/ref/Lesson17.dll
